@@ -1,0 +1,2715 @@
+[
+  {
+    "resim": "URL_RESIM_1",
+    "isim": "Protecter&Gamble",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_2",
+    "isim": "Unilever",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_3",
+    "isim": "Nestle",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_4",
+    "isim": "Danone",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Coca Cola",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pepsico",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kraft",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kent",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Eti",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Torku",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Şölen",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tat Bakliyat",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Aytaç",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tadım",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Züber",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Afia",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bifa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Elvan",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Saadet",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Saray",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tukaş",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dimes",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "Hellmanns",
+    "isim": "Coca Cola",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Calve",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Activia",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Komili",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Becel",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sana",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bol Bol",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Knorr",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Birşah",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Olips",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Twix",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Aptamil",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Snickers",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Milka",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kit Kat",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Oreo",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Domino's",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Burger Kıng",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Subway",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Papa John's",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "KFC",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mc donald's",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Popeyes",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pizza Hut",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Polo",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "First",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Falım",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Olips",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Jelibon",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Rocco",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ankara",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Arifoğlu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Aynes",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Biryağ",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bizim",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Harras",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tukaş",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Çokça",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Aldivia",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bebeto",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bolçi",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Malatya Pazarı",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Simbat",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Burcu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Biscolata",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ozmo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sarelle",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tadelle",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mabel Çikolatası",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Terra Pizza",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bağdat",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ercan Burger",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hd İskender",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pasaport Pizza",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Saloon Burger",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "No Şuga",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nazar",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fresh",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cosby",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "BayBalon",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Toybox",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ruffles",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Doritos",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cheetos",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Lays",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Çerezza",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cipso",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Chıps master",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Çerezos",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Patos",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "PATITO",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "PARTY",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cipsaş",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Algida",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Carte Dor",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cornetto",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Magnum",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Movenpıck",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Alpedo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Golf",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mis",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Frigo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dondurmacı Amca",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Lipton",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Doğadan",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ofçay",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Çaykur",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Doğuş",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Altın Başak",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Beta Tea",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Akzer",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Akfa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Efor",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Didi",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Berk Çay",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Starbucks",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Jacobs",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Coffee mate",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nescafe",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nespresso",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Saray Kahve",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Osso",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Colombia",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kahve Dünyası",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mahmood Coffee",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cafe Crown",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Arabica",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kahve Sepeti",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mahbuba",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Zambo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sırma",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hayat",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Damla",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Erikli",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Evian",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nestle Pure Life",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hamidiye",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Beysu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Akdağ",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fuska",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Abant",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Özkaynak",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Muratsu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mila",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Elmacık",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Korusu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Danone",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tikveşli",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sütaş",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pınar",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bebevit",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cicibebe",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Baby mix",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sek",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tek süt",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kebir",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tarım Kredi Süt",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Eker",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Halk",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Yörükoğlu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pakmaya",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Akmina",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Perrier",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sanpellegrino",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Damla minera",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kızılay",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Avşar",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sarıkız",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Beyoğlu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "İnişdibi",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Freşa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kardelen",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kınık",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kula doğal maden suyu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Coca Cola",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pepsi",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fanta",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Yedigün",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fruko",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sprite",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Capri-Sun",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Schweppes",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "MtnDew",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Powerade",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Monster Energy",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Niğde Gazozu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sarıyer Gazız",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Aroma",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Uludağ",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Kristal Cola",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "alpro",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cappy",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fuse tea",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tang",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "7up",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dr Pepper",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tropicana",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Torku",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Meysu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tamek",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Juss",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "SuperFresh",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Elite",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Oğuz İçecek",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Göknur",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Aynes",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Carrefour",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Migros",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Halal Dünya",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Türkiye Tarım Kredi Kooperatif Market",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bim",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "A101",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ariel",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Perwoll",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Alo",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tursil",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ace",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Persil",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Omo",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Rinso",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Naturalive",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "ABC",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Duru",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bingo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Peros",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ersağ",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mio",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hes",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Boron",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Eti matik",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Spumy",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Maranki",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Viking",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mintax",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dalin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Biobellinda",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Elite Home",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "ACT",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Perwoll",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Yumoş",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Vernel",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Peros",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bingo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Green Clean",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "ABC",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Doa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Viking",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Klorak",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bulut",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Vatan",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Titiz",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Yetiş",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bor Line",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mintax",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Domestos",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cif",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Vanish",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dixi",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bref",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "AJAX",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Vim",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cıllıt Bang",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "OFF",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bayer",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Raid",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Doa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hypo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "ABC",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bab-ı Şifa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Spumy",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Faber Naturex",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Por çöz",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Klorak",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Feradisin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Green Clean",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Detan",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bion",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Entox",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Finish",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Calgon",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pril",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fairy",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mintax",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Spumy",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Feradisin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Peros",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bab-ı Şifa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Gülefşan",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Glisten",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Saber Sab Sabun",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Turmepa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Doa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ersağ",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Green Clean",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tampa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Por Çöz",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Safia",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dove",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Lux",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Protex",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Palmolive",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hacı Şakir",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nivea",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Gillette Series",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Faber Naturex",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Turmepa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fax",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Agarta",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Otacı",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Feradisin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dalan",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Duru",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dermokil",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Activex",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Eyüp Sabri Tuncer",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Naturalive",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Arko",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Derby",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Gibbs",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Shıeld Man",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Head&Shoulders",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pantene",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Herbal Essences",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "aplus+",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Clear",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Elidor",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hacı Şakir",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "İpek",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Loreal Paris",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Schwarzkopf",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Syoss level up",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bioblas",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bioxcin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Eyüp Sabri Tuncer",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Otacı",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Spumy",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ersağ",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Duru",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Derma Dolin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Biobellinda",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mecitefendi",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Safia",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "agarta",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Naturalive beauty",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "prof saracoglu",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dr.C.Tuna",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nawy Blue",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Uni Baby",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dalin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Siveno baby",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Signal",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Colgate",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "İpana",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Oral-B",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Feradisin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Agarta",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Safia",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fresh White",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dk Dent",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Zubio",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Cerave",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "La Roche-Posay",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Neutrogena",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Simple",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Garnier",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nivea",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bepanthol",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Maybelline",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Vaseline",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sudocrem",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Loreal Paris",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Schwarzkopf",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Gillette",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bıotherm",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Veet",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Arko nem",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Golden Rose",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Derma Dolin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Agarta",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Dalin",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bioder",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Tüyo",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Lapitak",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Rexona",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Axe",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Loreal",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Febreze",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Garnier",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Nivea",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Fa",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Air Wick",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Gucci",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Old Spice",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Chanel Paris",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Arko",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "First Class",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Belissima",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Privacy",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Emotion",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Mentor",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Caldion",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "She Hunca",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Equal",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Jagler",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Farmasi Stay Fresh",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Prima",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Molfix",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pine Smart",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Sleepy",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Evy Baby",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Önlem",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Baby Turco",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Molped",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Pamucco",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Always",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Orkid",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Equal",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Amazon",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Migros",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Carrefour",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Ptt Avm",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Çiçek Sepeti",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hepsiburada",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Vatan",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "pazarama",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "teknosa",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "sahibinden.com",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "idefix",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "evkur",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "n11",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "trenyol",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "koçtaş",
+    "al_alma": "Al"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Siemens",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Bosch",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Profilo",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Braun",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Gillette",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hyundai",
+    "al_alma": "Alma"
+  },
+  {
+    "resim": "URL_RESIM_5",
+    "isim": "Hp",
+    "al_alma": "Alma"
+  }, {
+  "resim": "URL_RESIM_5",
+  "isim": "Arçelik",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Altus",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Beko",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Uğur",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Kumtel",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Luxell",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Sinbo",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Fakir",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Fantom",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "arnica",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "syrox",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "sunix",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "arzurm",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "karaca",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "grundig",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "dijitsu",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "raks",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "simfer",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Powertec",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Ufo",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "GoldMaster",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Apple",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Hp",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Dell",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "General Mobile",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Casper",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Reeder",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Hikıng",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Dıjıtsu",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Monster",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Casper",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Game Garaj",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "technopc",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "hometech",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Hp",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "bp",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Shell",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Petrol Ofisi",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Opet",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Sunpet",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Türkiye Petrolleri",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "bpet",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "moil",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Aytemiz",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Milangaz",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Kadoil",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Energy",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Alpet",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Opet",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Petro Time",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Castrol",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "ING Bank",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Denizbank",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Garanti",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Kuveyttürk",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Ziraat Bankası",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Halkbank",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Vakıfbank",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Türkiye İş Bankası",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Akbank",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Sunpet",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Aker",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Altınyıldız",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Beymen",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Boyner",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Collezione",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Colin's",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Çetinkaya",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Damat",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "David Ginola",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Daynax",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Defacto",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Derimod",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Desa",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "D'S damat",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Haşema",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Hatemoğlu",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "İmza",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "İpekyol",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Jakamen",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Jimmy Key",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Kardem",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Kiğılı",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Kip",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Kom",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Koton",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "LC Waikiki",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Lescon",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Lig",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "LTB",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Mavi",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Polaris",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Süvari",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Sarar",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Soo be",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Zeyrek",
+  "al_alma": "Al"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Altınyıldız",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Adidas",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Amrkn.Eagle",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Armani",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Champion",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Chanel",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Colorado",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Converse",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Diesel",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Dkny",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Fendi",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Gap",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Gottex",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Honigman",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Lacoste",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Levi's",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "LVMH",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Naot",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Nike",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Pull&Bear",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Puma",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Reebok",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Skeckers",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Source Sandals",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "The North Face",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Timberland",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "US Polo",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Vakko",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Valeron",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Victoria's Secret",
+  "al_alma": "Alma"
+}, {
+  "resim": "URL_RESIM_5",
+  "isim": "Zara",
+  "al_alma": "Alma"
+}
+]
