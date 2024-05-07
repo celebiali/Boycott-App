@@ -22,12 +22,12 @@ export default function Home() {
     };
     return (
     <div className="w-full mt-6">
-        <form className="w-1/4 mx-auto ">
+        <form className="w-[300px] mx-auto ">
             <div className="flex">
                 <div className="relative w-full">
                     <input type="search"
                            value={searchTerm}
-                           onChange={handleInputChange} id="search-dropdown" className="block p-2.5 w-full z-20 text-sm text-gray-900 bg-gray-50 rounded-lg  border-s-2 border border-gray-300  dark:bg-gray-700" placeholder="Search" required />
+                           onChange={handleInputChange} id="search-dropdown" className="block w-full h-[50px] pl-3 pr-3 z-20 text-sm text-gray-900 bg-gray-50 rounded-lg  border-s-2 border border-gray-300  dark:bg-gray-700" placeholder="Arama" required />
                 </div>
             </div>
         </form>
